@@ -7,3 +7,5 @@ I really enjoy working with dark themes - I just find myself more productive in 
 
 Testing (Fargo 1.27 - Chrome): 
 This theme is in testing as I can't hit every browser. If it works for you, please let me know. 
+
+<img src="http://i.imgur.com/vZFMIEN.png" alt="Fargo Dark">
