@@ -1,0 +1,62 @@
+body {
+	background-color: #161616;
+	color: #AFAFAF;
+}
+.navbar .brand {
+	text-shadow: none;
+}
+.navbar-inner {
+	border-color: #353535;
+	background-color: #313131;
+}
+.node-icon icon-caret-right {
+	color: #AFAFAF !important;
+}
+.navbar .nav > li > a:focus, .navbar .nav > li > a:hover {
+	color: #1AB1FD;
+}
+.navbar .nav li.dropdown > a:hover .caret, .navbar .nav li.dropdown > a:focus .caret {
+	border-top-color: #1AB1FD;
+}
+.navbar .nav > li > a {
+	color: #979797;
+	text-shadow: none;
+}
+.divFargoGrid .nav-tabs > .active > a, .divFargoGrid .nav-tabs > .active > a:hover, .divFargoGrid .nav-tabs > .active > a:focus {
+	background-color: #292929;
+	border-color: #464646 #464646 #292929;
+	color: #08c;
+}
+.divFargoGrid .nav-tabs > li > a:hover, .divFargoGrid .nav-tabs > li > a:focus {
+	color: #1AB1FD;
+}
+.divFargoGrid .nav > li > a:hover, .divFargoGrid .nav > li > a:focus {
+	background-color: #504E4E;
+	border-color: #464646 #464646 #292929 #464646;
+}
+.divFargoGrid .nav-tabs > .active > a {
+	font-weight: normal;
+}
+.divOutlinerContainer {
+	background-color: #292929;
+	border-color: #464646 #464646 #292929 #464646;
+}
+.concord .concord-node .concord-wrapper .concord-text {
+	color: #AFAFAF;
+}
+.concord .concord-node.selected > .concord-wrapper {
+	background-color: #2B6192;
+}
+.concord .concord-node.selected > .concord-wrapper .concord-text {
+	color: #000;
+}
+.concord .concord-node.collapsed > .concord-wrapper.type-icon .node-icon {
+	color: #C7C7C7;
+}
+.concord .concord-node > .concord-wrapper.type-icon .node-icon {
+	color: #353535;
+}
+.divNewsBox {
+	color: #353535;
+}
+
